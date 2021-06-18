@@ -2,7 +2,7 @@
 
 session_start();
 
-define ('URL', 'http://localhost/utspwebl/');
+define ('URL', 'http://localhost/uts/');
 
 define ('ASSET', URL . 'layout/assets/');
 
