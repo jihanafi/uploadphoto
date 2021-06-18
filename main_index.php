@@ -1,0 +1,1 @@
+<h2>Selamat Datang di Sistem Informasi Akademik UIN Sumatera Utara Medan</h2>

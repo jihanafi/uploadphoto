@@ -1,0 +1,21 @@
+{
+    "name": "jihan/utspwebl",
+    "description": "UTS Praktikum Pemograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+
+
+    },
+    "authors": [
+        {
+            "name": "Jihan Afifah",
+            "email": "jihanafi1999@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
